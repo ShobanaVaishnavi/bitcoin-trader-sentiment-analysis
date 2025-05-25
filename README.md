@@ -64,6 +64,6 @@ pip install pandas numpy matplotlib seaborn
 
 ## Conclusion
 
-The study reveals that sentiment-driven strategies, combined with informed leverage and timing, can improve trading outcomes. Smart traders exploit fear and ride momentum in greed phases while maintaining adaptive risk management.
+This analysis demonstrates that market sentiment is a powerful predictor of trader performance, but its effects are nuanced. While Extreme Greed offers the highest rewards, it comes with significant risk, whereas Fear phases provide more consistent opportunities. Leverage, account size, and timing further refine these insights into actionable strategies.
 
 ---
